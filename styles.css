@@ -1,0 +1,47 @@
+*{
+    border: 0px solid blue;
+    margin: 0;
+    color: #222222;
+}
+
+.header{
+    text-align: center;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 10px;
+    background-color: white;
+}
+.content{
+    font-family: 'Libre Baskerville', serif;
+    line-height: 25px;
+}
+.link{
+    color: #00727a;
+}
+img{
+    margin: auto;
+    display: block;
+}
+p{
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+#linked{
+    max-width: 350px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+ul{
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+.footer{
+    border-top: 2px solid black;
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 1rem;
+}
